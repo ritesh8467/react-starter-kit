@@ -1,0 +1,272 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'react-dom' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.2
+4 verbose install initial load of /Users/riteshkumar/Downloads/Developer/react-starter-kit/package.json
+5 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babel/package.json
+6 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babel-core/package.json
+7 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babel-plugin-object-assign/package.json
+8 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babelify/package.json
+9 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/body-parser/package.json
+10 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/bower/package.json
+11 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/browserify/package.json
+12 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/chart.js/package.json
+13 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/cookie-parser/package.json
+14 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/cron/package.json
+15 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/debug/package.json
+16 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/es6-promise/package.json
+17 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/express/package.json
+18 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/express-session/package.json
+19 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/googleapis/package.json
+20 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp/package.json
+21 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-babel/package.json
+22 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-concat/package.json
+23 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-node-inspector/package.json
+24 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-nodemon/package.json
+25 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-sass/package.json
+26 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-shell/package.json
+27 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-uglify/package.json
+28 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/history/package.json
+29 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/isomorphic-fetch/package.json
+30 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/jade/package.json
+31 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/knex/package.json
+32 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/morgan/package.json
+33 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/passport/package.json
+34 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/passport-facebook/package.json
+35 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/passport-google-oauth/package.json
+36 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/pg/package.json
+37 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react/package.json
+38 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-chartjs/package.json
+39 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-redux/package.json
+40 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-router/package.json
+41 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/reactify/package.json
+42 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux/package.json
+43 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux-devtools/package.json
+44 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux-router/package.json
+45 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux-thunk/package.json
+46 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/serve-favicon/package.json
+47 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/vinyl-buffer/package.json
+48 verbose installManyTop reading scoped package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/vinyl-source-stream/package.json
+49 info package.json cron@1.0.9 No license field.
+50 info package.json passport-facebook@2.0.0 No license field.
+51 info package.json passport-google-oauth@0.2.0 No license field.
+52 info package.json redux-router@0.1.0 No repository field.
+53 info package.json redux-router@0.1.0 No README data
+54 info package.json chart.js@1.0.2 No license field.
+55 verbose readDependencies loading dependencies from /Users/riteshkumar/Downloads/Developer/react-starter-kit/package.json
+56 silly cache add args [ 'react-dom', null ]
+57 verbose cache add spec react-dom
+58 silly cache add parsed spec Result {
+58 silly cache add   raw: 'react-dom',
+58 silly cache add   scope: null,
+58 silly cache add   name: 'react-dom',
+58 silly cache add   rawSpec: '',
+58 silly cache add   spec: '*',
+58 silly cache add   type: 'range' }
+59 silly addNamed react-dom@*
+60 verbose addNamed "*" is a valid semver range for react-dom
+61 silly addNameRange { name: 'react-dom', range: '*', hasData: false }
+62 silly mapToRegistry name react-dom
+63 silly mapToRegistry using default registry
+64 silly mapToRegistry registry https://registry.npmjs.org/
+65 silly mapToRegistry uri https://registry.npmjs.org/react-dom
+66 verbose addNameRange registry:https://registry.npmjs.org/react-dom not in flight; fetching
+67 verbose request uri https://registry.npmjs.org/react-dom
+68 verbose request no auth needed
+69 info attempt registry request try #1 at 8:29:03 PM
+70 verbose request id 77bd323a5fe645d9
+71 verbose etag "6ZX2W59HQVV3X31XYZ3ZTKSTO"
+72 http request GET https://registry.npmjs.org/react-dom
+73 http 304 https://registry.npmjs.org/react-dom
+74 verbose headers { date: 'Fri, 11 Dec 2015 14:59:04 GMT',
+74 verbose headers   via: '1.1 varnish',
+74 verbose headers   'cache-control': 'max-age=60',
+74 verbose headers   etag: '"6ZX2W59HQVV3X31XYZ3ZTKSTO"',
+74 verbose headers   age: '0',
+74 verbose headers   connection: 'keep-alive',
+74 verbose headers   'x-served-by': 'cache-sin6920-SIN',
+74 verbose headers   'x-cache': 'HIT',
+74 verbose headers   'x-cache-hits': '1',
+74 verbose headers   'x-timer': 'S1449845944.319284,VS0,VE1538',
+74 verbose headers   vary: 'Accept' }
+75 silly get cb [ 304,
+75 silly get   { date: 'Fri, 11 Dec 2015 14:59:04 GMT',
+75 silly get     via: '1.1 varnish',
+75 silly get     'cache-control': 'max-age=60',
+75 silly get     etag: '"6ZX2W59HQVV3X31XYZ3ZTKSTO"',
+75 silly get     age: '0',
+75 silly get     connection: 'keep-alive',
+75 silly get     'x-served-by': 'cache-sin6920-SIN',
+75 silly get     'x-cache': 'HIT',
+75 silly get     'x-cache-hits': '1',
+75 silly get     'x-timer': 'S1449845944.319284,VS0,VE1538',
+75 silly get     vary: 'Accept' } ]
+76 verbose etag https://registry.npmjs.org/react-dom from cache
+77 verbose get saving react-dom to /Users/riteshkumar/.npm/registry.npmjs.org/react-dom/.cache.json
+78 silly addNameRange number 2 { name: 'react-dom', range: '*', hasData: true }
+79 silly addNameRange versions [ 'react-dom',
+79 silly addNameRange   [ '0.1.0',
+79 silly addNameRange     '0.14.0-beta1',
+79 silly addNameRange     '0.14.0-beta2',
+79 silly addNameRange     '0.14.0-beta3',
+79 silly addNameRange     '0.14.0-rc1',
+79 silly addNameRange     '0.14.0',
+79 silly addNameRange     '0.14.1',
+79 silly addNameRange     '0.14.2',
+79 silly addNameRange     '0.14.3' ] ]
+80 silly addNamed react-dom@0.14.3
+81 verbose addNamed "0.14.3" is a plain semver version for react-dom
+82 silly cache afterAdd react-dom@0.14.3
+83 verbose afterAdd /Users/riteshkumar/.npm/react-dom/0.14.3/package/package.json not in flight; writing
+84 verbose afterAdd /Users/riteshkumar/.npm/react-dom/0.14.3/package/package.json written
+85 silly install resolved [ { name: 'react-dom',
+85 silly install resolved     version: '0.14.3',
+85 silly install resolved     description: 'React package for working with the DOM.',
+85 silly install resolved     main: 'index.js',
+85 silly install resolved     repository:
+85 silly install resolved      { type: 'git',
+85 silly install resolved        url: 'git+https://github.com/facebook/react.git' },
+85 silly install resolved     keywords: [ 'react' ],
+85 silly install resolved     license: 'BSD-3-Clause',
+85 silly install resolved     bugs: { url: 'https://github.com/facebook/react/issues' },
+85 silly install resolved     homepage: 'https://github.com/facebook/react/tree/master/npm-react-dom',
+85 silly install resolved     peerDependencies: { react: '^0.14.3' },
+85 silly install resolved     scripts: { start: 'node server.js' },
+85 silly install resolved     _id: 'react-dom@0.14.3',
+85 silly install resolved     _shasum: 'b3f0aeeed1a433b20c5458e34439a51916818628',
+85 silly install resolved     _resolved: 'https://registry.npmjs.org/react-dom/-/react-dom-0.14.3.tgz',
+85 silly install resolved     _from: 'react-dom@*',
+85 silly install resolved     _npmVersion: '2.14.7',
+85 silly install resolved     _nodeVersion: '4.2.2',
+85 silly install resolved     _npmUser: { name: 'zpao', email: 'paul@oshannessy.com' },
+85 silly install resolved     maintainers: [ [Object], [Object] ],
+85 silly install resolved     dist:
+85 silly install resolved      { shasum: 'b3f0aeeed1a433b20c5458e34439a51916818628',
+85 silly install resolved        tarball: 'http://registry.npmjs.org/react-dom/-/react-dom-0.14.3.tgz' },
+85 silly install resolved     directories: {},
+85 silly install resolved     readme: 'ERROR: No README data found!' } ]
+86 info install react-dom@0.14.3 into /Users/riteshkumar/Downloads/Developer/react-starter-kit
+87 info installOne react-dom@0.14.3
+88 verbose installOne of react-dom to /Users/riteshkumar/Downloads/Developer/react-starter-kit not in flight; installing
+89 verbose lock using /Users/riteshkumar/.npm/_locks/react-dom-1a7cd04359ab1477.lock for /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+90 silly install write writing react-dom 0.14.3 to /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+91 verbose unbuild node_modules/react-dom
+92 silly gentlyRm /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom is being purged from base /Users/riteshkumar/Downloads/Developer/react-starter-kit
+93 verbose gentlyRm don't care about contents; nuking /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+94 verbose tar unpack /Users/riteshkumar/.npm/react-dom/0.14.3/package.tgz
+95 verbose tar unpacking to /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+96 silly gentlyRm /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom is being purged
+97 verbose gentlyRm don't care about contents; nuking /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+98 silly gunzTarPerm modes [ '755', '644' ]
+99 silly gunzTarPerm extractEntry package.json
+100 silly gunzTarPerm extractEntry README.md
+101 silly gunzTarPerm extractEntry LICENSE
+102 silly gunzTarPerm extractEntry index.js
+103 silly gunzTarPerm extractEntry server.js
+104 silly gunzTarPerm extractEntry PATENTS
+105 silly gunzTarPerm extractEntry dist/react-dom-server.js
+106 silly gunzTarPerm extractEntry dist/react-dom-server.min.js
+107 silly gunzTarPerm extractEntry dist/react-dom.js
+108 silly gunzTarPerm extractEntry dist/react-dom.min.js
+109 verbose write writing to /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom/package.json
+110 info preinstall react-dom@0.14.3
+111 verbose readDependencies loading dependencies from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom/package.json
+112 silly prepareForInstallMany adding react@^0.14.3 from react-dom peerDependencies
+113 warn peerDependencies The peer dependency react@^0.14.3 included from react-dom will no
+114 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+115 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+116 verbose readDependencies loading dependencies from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom/package.json
+117 silly install resolved []
+118 verbose about to build /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+119 info build /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+120 info linkStuff react-dom@0.14.3
+121 silly linkStuff react-dom@0.14.3 has /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules as its parent node_modules
+122 verbose linkBins react-dom@0.14.3
+123 verbose linkMans react-dom@0.14.3
+124 verbose rebuildBundles react-dom@0.14.3
+125 info install react-dom@0.14.3
+126 info postinstall react-dom@0.14.3
+127 verbose readDependencies loading dependencies from /Users/riteshkumar/Downloads/Developer/react-starter-kit/package.json
+128 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babel/package.json
+129 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babel-core/package.json
+130 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babel-plugin-object-assign/package.json
+131 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/babelify/package.json
+132 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/body-parser/package.json
+133 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/bower/package.json
+134 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/browserify/package.json
+135 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/chart.js/package.json
+136 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/cookie-parser/package.json
+137 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/cron/package.json
+138 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/debug/package.json
+139 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/es6-promise/package.json
+140 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/express/package.json
+141 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/express-session/package.json
+142 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/googleapis/package.json
+143 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp/package.json
+144 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-babel/package.json
+145 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-concat/package.json
+146 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-node-inspector/package.json
+147 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-nodemon/package.json
+148 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-sass/package.json
+149 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-shell/package.json
+150 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/gulp-uglify/package.json
+151 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/history/package.json
+152 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/isomorphic-fetch/package.json
+153 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/jade/package.json
+154 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/knex/package.json
+155 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/morgan/package.json
+156 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/passport/package.json
+157 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/passport-facebook/package.json
+158 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/passport-google-oauth/package.json
+159 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/pg/package.json
+160 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react/package.json
+161 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-chartjs/package.json
+162 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom/package.json
+163 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-redux/package.json
+164 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-router/package.json
+165 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/reactify/package.json
+166 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux/package.json
+167 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux-devtools/package.json
+168 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux-router/package.json
+169 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/redux-thunk/package.json
+170 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/serve-favicon/package.json
+171 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/vinyl-buffer/package.json
+172 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/vinyl-source-stream/package.json
+173 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/babel/package.json
+174 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/babel-external-helpers/package.json
+175 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/babel-node/package.json
+176 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/bower/package.json
+177 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/browserify/package.json
+178 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/gulp/package.json
+179 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/jade/package.json
+180 verbose targetResolver reading package data from /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/.bin/knex/package.json
+181 verbose already installed skipping react@^0.14.3 /Users/riteshkumar/Downloads/Developer/react-starter-kit
+182 silly install resolved []
+183 verbose unlock done using /Users/riteshkumar/.npm/_locks/react-dom-1a7cd04359ab1477.lock for /Users/riteshkumar/Downloads/Developer/react-starter-kit/node_modules/react-dom
+184 verbose validateInstall loading /Users/riteshkumar/Downloads/Developer/react-starter-kit/package.json for validation
+185 verbose stack Error: The package react@0.13.3 does not satisfy its siblings' peerDependencies requirements!
+185 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+185 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:268:7
+185 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+185 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+185 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+185 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+185 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+185 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+185 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+185 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+186 verbose cwd /Users/riteshkumar/Downloads/Developer/react-starter-kit
+187 error Darwin 14.5.0
+188 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "--save" "react-dom"
+189 error node v4.2.2
+190 error npm  v2.14.7
+191 error code EPEERINVALID
+192 error peerinvalid The package react@0.13.3 does not satisfy its siblings' peerDependencies requirements!
+192 error peerinvalid Peer react-chartjs@0.6.0 wants react@*
+192 error peerinvalid Peer react-router@0.13.5 wants react@0.13.x||0.14.x
+192 error peerinvalid Peer react-dom@0.14.3 wants react@^0.14.3
+193 verbose exit [ 1, true ]
